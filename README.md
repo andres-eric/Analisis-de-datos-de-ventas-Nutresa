@@ -13,8 +13,8 @@ Archivo: propductos_eda.ipynb
 
 Este cuaderno contiene un análisis exploratorio de datos para entender la estructura y calidad de la base de datos. Las principales tareas realizadas en este cuaderno incluyen:
 
--Revisión de los tipos de datos y valores nulos.
--Análisis descriptivo inicial de las principales variables.
+Revisión de los tipos de datos y valores nulos.
+- Análisis descriptivo inicial de las principales variables.
 -Visualización de patrones generales de comportamiento, como tendencias de ventas por cliente y producto.
 
 
