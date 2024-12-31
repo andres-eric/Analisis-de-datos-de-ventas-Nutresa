@@ -44,9 +44,9 @@ Archivo: datos probabilidad
 
 ### **. ruta de transformacion de archivos**
 
-- 1. productos_eda --> df_filtrado.csv
-- 2. modelo_closter_clientes --> df_filtrado.csv --> df_closter_cliente.csv
-- 3. modelo_closter_productos --> df_closter_cliente.csv --> df_modelo.csv
-- 4. datos_modelo --> df_modelo.csv --> df_ML.csv
-- 5. ML --> df_ML.csv --> modelo
-- 6. datos_nuevos_prediccion --> datos_nuevos_prediccion.csv --> datos probabilidad.csv
+- 1. productos_eda: df_filtrado.csv
+- 2. modelo_closter_clientes: df_filtrado.csv --> df_closter_cliente.csv
+- 3. modelo_closter_productos: df_closter_cliente.csv --> df_modelo.csv
+- 4. datos_modelo: df_modelo.csv --> df_ML.csv
+- 5. ML: df_ML.csv --> modelo
+- 6. datos_nuevos_prediccion: datos_nuevos_prediccion.csv --> datos probabilidad.csv
